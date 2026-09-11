@@ -1,4 +1,4 @@
-package retangulo.entities.application;
+package retangulo.application;
 
 import java.util.Locale;
 import java.util.Scanner;

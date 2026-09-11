@@ -1,4 +1,4 @@
-package entities;
+package retangulo.entities;
 
 public class Rectangle {
 

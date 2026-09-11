@@ -1,8 +1,8 @@
-package application;
+package retangulo.entities.application;
 
 import java.util.Locale;
 import java.util.Scanner;
-import entities.Rectangle;
+import retangulo.entities.Rectangle;
 
 public class Program {
     void main() {
